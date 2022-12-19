@@ -1,0 +1,9 @@
+'''Lista de nomes'''
+listadenome =['ana','maria','carla','isadora', 'pietra','milena', 'patricia']
+for nome in listadenome:
+  print(nome)
+  
+'''Lista de nomes'''
+listadenome =['ana','maria','carla','isadora', 'pietra','milena', 'patricia']
+for i in range(8):
+  print('meninas')
